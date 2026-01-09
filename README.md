@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Thiago Alexandre
+# 👨‍💻 Thiago Alexandre
 
 **`Desenvolvedora FullStack`**
 
