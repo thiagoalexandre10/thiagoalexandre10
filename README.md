@@ -2,7 +2,7 @@
 
 **`desenvolvedor backend`**
 
-🎓 Me chamo Thiago Alexandre, tenho 19 anos e sou natural do São Paulo. Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com foco em desenvolvimento backend. Possuo conhecimentos em SQL, Java, Python, Node.js, HTML e Bootstrap, além de experiência em projetos acadêmicos e pessoais. Busco aplicar a teoria na prática, desenvolver soluções eficientes e evoluir continuamente na área de tecnologia.
+🎓 Me chamo Thiago Alexandre, tenho 20 anos e sou natural do São Paulo. Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com foco em desenvolvimento backend. Possuo conhecimentos em SQL, Java, Python, Node.js, HTML e Bootstrap, além de experiência em projetos acadêmicos e pessoais. Busco aplicar a teoria na prática, desenvolver soluções eficientes e evoluir continuamente na área de tecnologia.
 
 
 ### 🤖 Linguagens e Tecnologias
